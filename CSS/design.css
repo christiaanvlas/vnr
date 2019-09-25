@@ -18,18 +18,15 @@ h1 {
   font-size: 50px;
   font-style: oblique;
 
+}
+
 h3 {
-  text-align: left;
+  text-align: center;
   color: whitesmoke;
-  font-style: oblique;
+  font-style: italic;
 }
 
 h2 {
-  text-align: right;
+  text-align: center;
   color: whitesmoke;
   font-style: oblique;
-}
-
-img {
-    font-style:width:128px; height:128px
-}
