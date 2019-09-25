@@ -1,10 +1,22 @@
 body {
-  background-image: url('../background black.jpg');
-  background-repeat:
-
+  background-image: url('../images/background black.jpg');
+  background-size: cover;
 
 }
 
 picture {
     border: 10px solid black;
 }
+body {
+  color: lightblue;
+  text-align: center;
+  font-size: 20px;
+  font-style: oblique;
+
+}
+
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 50px;
+  font-style: oblique;
