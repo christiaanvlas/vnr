@@ -4,13 +4,10 @@ body {
 
 }
 
-picture {
-    border: 10px solid black;
-}
 body {
   color: lightblue;
   text-align: center;
-  font-size: 20px;
+  font-size: 30px;
   font-style: oblique;
 
 }
@@ -20,3 +17,19 @@ h1 {
   text-align: center;
   font-size: 50px;
   font-style: oblique;
+
+h3 {
+  text-align: left;
+  color: whitesmoke;
+  font-style: oblique;
+}
+
+h2 {
+  text-align: right;
+  color: whitesmoke;
+  font-style: oblique;
+}
+
+img {
+    font-style:width:128px; height:128px
+}
