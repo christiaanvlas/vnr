@@ -1,5 +1,5 @@
 body {
-  background-image: url('../images/background black.jpg');
+  background-image: url('background black.jpg');
   background-size: cover;
 
 }
@@ -30,3 +30,5 @@ h2 {
   text-align: center;
   color: whitesmoke;
   font-style: oblique;
+}
+
