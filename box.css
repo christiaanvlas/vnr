@@ -18,11 +18,11 @@ body {
 }
 #balk p {
     font-family: 'Indie Flower', cursive;
-    font-size: 40px;
+    font-size: 50px;
     color: #222;
     float: left;
-    padding: 5px 15px;
-    text-align: center;
+    padding: -50px 15px;
+  
 
 
 }
@@ -38,7 +38,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: white;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -49,6 +49,8 @@ li a {
   color: #000;
   padding: 8px 16px;
   text-decoration: none;
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
 }
 
 li a.active {
@@ -67,8 +69,51 @@ li a:hover:not(.active) {
 
     background-color: white;
     width: 100%;
-    height: 75%;
-    margin-top: 100%;
-    float: center;
+    height: 90px;
+    margin-top: 38.9%;
+    background-size: cover;
     position: fixed;
+
+    
+}
+
+#container p {
+text-align: center;
+
+
+}
+
+#plaatjes {
+    width: 75%;
+    float: right;
+
+
+
+
+
+}
+#plaatjes img {
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 400px;
+
+}
+
+#plaatjes p {
+    
+
+
+
+} 
+.plaatje {
+    float: left;
+    margin: 5px;
+    border: 1px solid grey;
+    height: ;
+}
+.text {
+    text-align: center;
+    padding: 0px;
+
 }
