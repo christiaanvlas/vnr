@@ -80,6 +80,9 @@ li a:hover:not(.active) {
 
 #container p {
 text-align: center;
+font-family: 'Indie Flower', cursive;
+font-size: 30px;
+padding: 20px;
 
 
 }
@@ -130,5 +133,56 @@ text-align: center;
     padding: 0px;
     font-family: 'Indie Flower', cursive;
     font-size: 35px;
+
+}
+
+
+body {font-family: 'Indie Flower', cursive; text-align: 20px}
+* {box-sizing: border-box;}
+    
+    h3 {margin-left: 600px;}
+    label { margin-left: 500px;}
+    .select {margin-left: 600px;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  margin-left: 600px;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 600px;
+  
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+#smiley img {
+    margin: 200px;
+    width: 750px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }

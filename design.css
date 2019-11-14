@@ -31,4 +31,12 @@ h2 {
   color: whitesmoke;
   font-style: oblique;
 }
+#backspace img {
+    float: left;
+    width: auto;
+    height: 100px;
+    position: left;
+
+
+}
 
